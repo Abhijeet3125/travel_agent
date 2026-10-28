@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# uv / Virtual Environments
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Testing / profiling
+.coverage
+.pytest_cache/
+
+# LangGraph / SQLite checkpointers
+*.sqlite3
+*.db
